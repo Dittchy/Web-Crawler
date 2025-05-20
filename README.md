@@ -22,10 +22,8 @@ A feature-rich web crawler with modern GUI, multi-threaded architecture, and dat
 - pip package manager
 
 ### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/spiderbot.git
-   cd spiderbot
+1. Clone the repository
+   
 Install dependencies:
 
 pip install -r requirements.txt
