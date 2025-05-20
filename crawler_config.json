@@ -1,0 +1,8 @@
+{
+    "start_url": "http://www.example.com",
+    "max_threads": 4,
+    "politeness_delay": 1.0,
+    "storage_file": "crawled_urls.csv",
+    "restrict_domain": true,
+    "max_depth": 10,
+}
